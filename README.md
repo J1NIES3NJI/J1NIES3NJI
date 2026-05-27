@@ -1,3 +1,9 @@
+   Call me Jinie Senji
+
+
+
+
+
    𝐇𝐔𝐆 𝐌𝐄! 𝐊𝐈𝐒𝐒 𝐌𝐄! 𝐋𝐎𝐕𝐄 𝐌𝐄!
 
 
@@ -22,6 +28,12 @@
 
 
 
+   Emma
+
+
+
+
+   
 <img width="736" height="448" alt="image" src="https://github.com/user-attachments/assets/4e1c5af1-334a-4a72-ab25-8c1e703b072e" />
 
 
