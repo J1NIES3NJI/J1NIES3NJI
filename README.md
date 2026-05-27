@@ -12,5 +12,3 @@
 
 
   <img width="736" height="981" alt="image" src="https://github.com/user-attachments/assets/42778845-e6b1-4d7f-84db-a7d7121439fe" />
-
-     **J1NIES3NJI/J1NIES3NJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
