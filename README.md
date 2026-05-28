@@ -35,7 +35,13 @@
 
 
 
-   Emma
+   <img width="800" height="294" alt="image" src="https://github.com/user-attachments/assets/5cf48038-1cfd-43ab-b9be-ac2ad8ea2eaa" />
+
+
+
+
+
+   EMMA
 
 
 
@@ -54,9 +60,3 @@
 
 
   <img width="736" height="981" alt="image" src="https://github.com/user-attachments/assets/42778845-e6b1-4d7f-84db-a7d7121439fe" />
-
-
-
-
-
-  
